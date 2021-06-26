@@ -1,9 +1,11 @@
 # GamePlay
 ## NLW Together Rocketseat
 
-[Protótipo](https://www.figma.com/file/9XmRxEqEFyn7V11yu5Au1q/GamePlay/duplicate)
-[Projeto original](https://github.com/rodrigorgtic/gameplay-nlw-together)
+- [Protótipo](https://www.figma.com/file/9XmRxEqEFyn7V11yu5Au1q/GamePlay/duplicate)
+- [Projeto original](https://github.com/rodrigorgtic/gameplay-nlw-together)
 
+
+# README [Original](https://github.com/rodrigorgtic/gameplay-nlw-together)
 
 ## 💻 Projeto
 Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jogar com os amigos. Crie grupos para jogar seus games favoritos com seus amigos com esse App que possui autenticação com Discord.
