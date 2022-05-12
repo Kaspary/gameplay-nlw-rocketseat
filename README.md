@@ -1,7 +1,7 @@
 # GamePlay
 ## NLW Together Rocketseat
 
-- [Protótipo](https://www.figma.com/file/9XmRxEqEFyn7V11yu5Au1q/GamePlay/duplicate)
+- [Protótipo](https://www.figma.com/file/Wv29ZlsPtfjlUWsw31t7g1/GamePlay---NLW-Together?node-id=58913%3A83)
 - [Projeto original](https://github.com/rodrigorgtic/gameplay-nlw-together)
 
 
